@@ -21,7 +21,7 @@ Project Specifications
 
 5. Use appropriate HTML tags to format the content of each section, such as h1 for section headings and ul or ol for lists.
 
-6.Use HTML tags to add a profile photo of yourself.
+6. Use HTML tags to add a profile photo of yourself.
 
 7. Use relevant anchor tags to create a multi-page website, listing other aspects of your resume such as Hobbies and Contact details.
 
